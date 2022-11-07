@@ -1,5 +1,5 @@
 {
-  "name": "desafio",
+  "name": "ch2-desafio01-Introducao-SOLID",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "swagger": "^0.7.5",
+    "swagger-ui-express": "^4.5.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
@@ -32,5 +34,8 @@
     "ts-jest": "^26.5.3",
     "ts-node-dev": "^1.1.6",
     "typescript": "^4.2.2"
-  }
+  },
+  "description": "documentando a API",
+  "repository": "https://github.com/Romina-hoff/ch2-desafio01-Introdu-o-SOLID.git",
+  "author": "Romina Andrea Hoff"
 }
